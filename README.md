@@ -2,6 +2,7 @@
 
 The home of the Arduino based Rubber Ducky (Bad Usb)!
 If you like this repo, feel free to leave star :)
+Hardware wise, I recommend you use an Arduino Micro just due to its size but if you want something that is not from Arduino buy a DigiSpark
 
 # Table of Contents
 ```
