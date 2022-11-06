@@ -19,8 +19,8 @@ root/
 
 # Shortcuts/Important Links
 
-- [Arduino based Bad USB Setup](https://gituhb.com/benjibrown/duinoducky/tree/main/setup)
-- [Payloads for Arduino](https://gituhb.com/benjibrown/duinoducky/tree/main/payloads)
+- [Arduino based Bad USB Setup](https://github.com/benjibrown/duinoducky/tree/main/setup)
+- [Payloads for Arduino](https://github.com/benjibrown/duinoducky/tree/main/payloads)
 - [Arduino's official website](https://arduino.cc)
 
 # Contributions
