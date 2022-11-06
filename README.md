@@ -32,3 +32,4 @@ If you would like to contribute to this repository either submit an issue or a p
 Now here lies the wonderful credits.
 
 - Special thanks to the **Hak5 USB Rubber Ducky payloads** repository located [here](https://github.com/hak5/usbrubberducky-payloads) and the [DuckToolkit](https://ducktoolkit.com).
+- [Hak5's Bash Bunny Payloads Repo and All its contributors](https://github.com/hak5/bashbunny-payloads)
