@@ -1,4 +1,4 @@
-# Everything But The Kitchen Sink
+# The Big Daddy
 
 This script attempts to grab as much network information it can.
 Not focused on speed but the amount of data returned :)
